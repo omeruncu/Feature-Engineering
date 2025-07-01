@@ -54,7 +54,7 @@ Diabetes Feature Engineering
 
 It is desired to develop a machine learning model that can predict whether people have diabetes when their features are specified. Before developing the model, you are expected to perform the necessary data analysis and feature engineering steps.
 
-
+* Link: [https://github.com/omeruncu/Diabetes-Detector](https://github.com/omeruncu/Diabetes-Detector)
 
 <!-- CONTACT -->
 ## Contact
@@ -63,7 +63,7 @@ It is desired to develop a machine learning model that can predict whether peopl
 * Linkedin : [https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
 
 ## Certificate
-
+* [https://learning.miuul.com/certificates/o4u57u5yhm](https://learning.miuul.com/certificates/o4u57u5yhm)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
